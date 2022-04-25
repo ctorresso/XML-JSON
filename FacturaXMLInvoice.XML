@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Invoice>
+        <BusinessInformation>
+                  <BusineesName>Venta de Autos</BusineesName>
+                  <StreedAddress>Av.Constitucion</StreedAddress>
+                  <City>Mexico</City>
+				  <State>Distrito Federal</State>
+				  <Email>Ventas_Autos@MercedesBenz.mx</Email>
+				  <ZipCode>01050</ZipCode>
+        </BusinessInformation>
+        <DescriptionServices>
+                  <Product>Mercedes Benz Clase C</Product>
+                  <Description>Color Blanco, 6 Cilindros, etc.</Description>
+                  <Rate>10</Rate>
+                  <Amount>$1,200.000</Amount>
+        </DescriptionServices>
+        <CustomerData>
+                  <ClientName>Rodolfo Valenzuela</ClientName>
+                  <CellPhone>01-800-142-015</CellPhone>
+                  <StreedAddress>Jalisco</StreedAddress>
+                  <Due>10/02/2022</Due>
+        </CustomerData>
+        <Deductions>
+                  <Subtotal>$1,200.000</Subtotal>
+                  <SalesTax>16%</SalesTax>
+                  <Shipping>Free</Shipping>
+                  <Total>$1,456.000</Total>
+        </Deductions>
+</Invoice>
